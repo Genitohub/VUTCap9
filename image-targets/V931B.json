@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 171,
+    "left": 0,
+    "width": 768,
+    "height": 1024,
+    "isRotated": true,
+    "originalWidth": 768,
+    "originalHeight": 1366
+  },
+  "imagePath": "image-targets/V931B_luminance.jpg",
+  "metadata": null,
+  "name": "V931B",
+  "resources": {
+    "originalImage": "V931B_original.jpg",
+    "croppedImage": "V931B_cropped.jpg",
+    "thumbnailImage": "V931B_thumbnail.jpg",
+    "luminanceImage": "V931B_luminance.jpg"
+  },
+  "created": 1790116055965,
+  "updated": 1790116055965
+}

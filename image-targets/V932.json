@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 247,
+    "left": 0,
+    "width": 499,
+    "height": 665,
+    "isRotated": true,
+    "originalWidth": 499,
+    "originalHeight": 1161
+  },
+  "imagePath": "image-targets/V932_luminance.jpg",
+  "metadata": null,
+  "name": "V932",
+  "resources": {
+    "originalImage": "V932_original.jpg",
+    "croppedImage": "V932_cropped.jpg",
+    "thumbnailImage": "V932_thumbnail.jpg",
+    "luminanceImage": "V932_luminance.jpg"
+  },
+  "created": 1790116193942,
+  "updated": 1790116193942
+}

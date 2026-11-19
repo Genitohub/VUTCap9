@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 99,
+    "width": 600,
+    "height": 800,
+    "isRotated": true,
+    "originalWidth": 799,
+    "originalHeight": 800
+  },
+  "imagePath": "image-targets/V901_luminance.jpg",
+  "metadata": null,
+  "name": "V901",
+  "resources": {
+    "originalImage": "V901_original.jpg",
+    "croppedImage": "V901_cropped.jpg",
+    "thumbnailImage": "V901_thumbnail.jpg",
+    "luminanceImage": "V901_luminance.jpg"
+  },
+  "created": 1794868457889,
+  "updated": 1794868457889
+}

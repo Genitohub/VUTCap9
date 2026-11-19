@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 708,
+    "left": 0,
+    "width": 496,
+    "height": 661,
+    "isRotated": true,
+    "originalWidth": 496,
+    "originalHeight": 2079
+  },
+  "imagePath": "image-targets/V933_luminance.jpg",
+  "metadata": null,
+  "name": "V933",
+  "resources": {
+    "originalImage": "V933_original.jpg",
+    "croppedImage": "V933_cropped.jpg",
+    "thumbnailImage": "V933_thumbnail.jpg",
+    "luminanceImage": "V933_luminance.jpg"
+  },
+  "created": 1790116358178,
+  "updated": 1790116358178
+}
